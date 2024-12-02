@@ -1,0 +1,118 @@
+<<<<<<< HEAD
+/* About Section */
+.about-container {
+    text-align: center;
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: auto;
+    color: #fff;
+    background-color: #cfe2ff;
+    /* Background color to match Hero Section */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-container h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #0056b3;
+    /* Consistent with accent color */
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-container p {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    color: #2a2a3c;
+    font-weight: 400;
+    margin-bottom: 10px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-container a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0056b3;
+    /* Consistent with accent color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-container a:hover {
+    background-color: #48457F;
+    /* Darker shade for hover effect */
+}
+
+.about-container a:focus {
+    outline: none;
+    background-color: #3c3a6e;
+    /* Slightly darker on focus */
+=======
+/* About Section */
+.about-container {
+    text-align: center;
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: auto;
+    color: #fff;
+    background-color: #cfe2ff;
+    /* Background color to match Hero Section */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-container h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #0056b3;
+    /* Consistent with accent color */
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-container p {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    color: #2a2a3c;
+    font-weight: 400;
+    margin-bottom: 10px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-container a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    background-color: #0056b3;
+    /* Consistent with accent color */
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-container a:hover {
+    background-color: #48457F;
+    /* Darker shade for hover effect */
+}
+
+.about-container a:focus {
+    outline: none;
+    background-color: #3c3a6e;
+    /* Slightly darker on focus */
+>>>>>>> ea7e631c718f0de0024244c8e0162c6d15342820
+}
